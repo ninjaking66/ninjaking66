@@ -1,4 +1,4 @@
-# 👋 Hello, I'm TAO Hunter
+# 👋 Hello, I'm AI Agent Fan.
 
 ## 👨‍💻 Software Engineer | AI Systems Builder | Bittensor Miner
 
