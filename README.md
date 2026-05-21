@@ -1,78 +1,70 @@
-# 👋 Hello, I'm AI Agent Fan.
+# 👋 Hi, I'm Jacky
 
-## 👨‍💻 Software Engineer | AI Systems Builder | Bittensor Miner
+## Software Engineer · AI Systems Builder · Bittensor Miner
 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,docker,kubernetes,react,nodejs,linux&theme=light" alt="Tech Stack Icons">
+  <img src="https://skillicons.dev/icons?i=python,typescript,pytorch,tensorflow,fastapi,react,nodejs,postgres,docker,kubernetes,aws,linux" alt="Tech stack" />
 </p>
 
 ---
 
-## 🧠 Bittensor Miner Experience
+## 🧠 Bittensor Mining
 
-🚀 Professional miner on **Bittensor**, specializing in:
+I build and run miner agents on **Bittensor**. Current focus:
 
-- **Custom miners** for subnets `#17` (404-Gen) & `#18` (Zeus)
-- Optimization of inference pipelines and evaluation logic
-- Deployment using **Docker**, **Kubernetes**, **TorchServe**
-- Data preprocessing, ranking strategies, and edge-model tuning
+- **Subnet 66 (Tau)** — LLM coding agents for automated patch generation: multi-attempt orchestration, LLM-judge selection between attempts, and reference-alignment / acceptance-criterion gating
+- Rapid iteration across agent designs — `viper`, `ronin`, `huskar`, and the `ninja` starter harness
+- Deployment & ops with **Docker**, **Kubernetes**, and **FastAPI**
 
-> 🥇 Consistently ranked among **top TAO miners** across subnets  
-> 🧬 Building toward **decentralized AGI**
+**Other / past subnet work**
+
+- **Subnet 17 (404-Gen)** — generative miner (several round wins)
+- **Subnet 123 (Mantis)**, **Zeus** (forecasting), **RedTeam**, and **LogicNet**
 
 ---
 
 ## 🔧 Technical Skills
 
-- **Languages:** Python, JavaScript (Node.js, React)
-- **AI/ML:** PyTorch, TensorFlow, scikit-learn
-- **Infra:** AWS, Docker, Kubernetes, GitHub Actions
-- **Tools:** Git, CI/CD, VSCode, Linux, FastAPI
+- **Languages:** Python, TypeScript, JavaScript
+- **AI / ML:** PyTorch, TensorFlow, LLM agents & evaluation pipelines
+- **Backend:** FastAPI, Node.js, PostgreSQL
+- **Frontend:** React, Vite, Tailwind CSS
+- **Infra:** Docker, Kubernetes, AWS, GitHub Actions, Linux
 
 ---
 
 ## 🌟 Featured Projects
 
-📊 **SmartHealth AI**  
-> Predicts patient readmission risk using medical history with TensorFlow.
-
-🌐 **React Portfolio Site**  
-> Responsive and animated portfolio using React + Tailwind.
-
-🤝 **Open Source Contributions**  
-> Contributor to `scikit-learn`, `pandas`, and Bittensor ecosystem tools.
-
----
-
-## 🧬 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ninjaking66&show_icons=true&theme=default" alt="Ninja King's GitHub stats">
-</p>
+- **[ninja](https://github.com/ninjaking66/ninja)** — Subnet 66 miner starter harness (Python)
+- **[viper-agent](https://github.com/ninjaking66/viper-agent)** — SN66 / Tau coding agent (TypeScript)
+- **[ronin-agent](https://github.com/ninjaking66/ronin-agent)** — SN66 coding agent (TypeScript)
+- **[LogicNet](https://github.com/ninjaking66/LogicNet)** — mathematical & logical AI for the Bittensor ecosystem (Python)
 
 ---
 
 ## 🧩 About Me
 
-- Building decentralized AI systems with Bittensor
-- Open-source enthusiast & community contributor
-- Fascinated by autonomous systems and neural evolution
-- Lover of sci-fi, chess, and hiking 🌄
+- Building decentralized AI systems on Bittensor
+- Open-source contributor
+- Interested in autonomous agents and model evaluation
+- Sci-fi, chess, and hiking 🌄
 
 ---
 
-## 🔗 Let's Connect
-📬 **Telegram:** `@cherokee629`
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ninjaking66" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ninjaking66&theme=flat&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+</p>
 
 ---
 
-## 🏆 Fun Facts
+## 🔗 Connect
 
-- 🧠 Created TAO models that outperform OpenMeteo  
-- 🔧 Built and tuned high-precision forecasting agents  
-- 🌐 Ranked contributor in decentralized compute networks
-
----
-
+📬 **Telegram:** [@cherokee629](https://t.me/cherokee629)
