@@ -53,7 +53,12 @@ I build and run miner agents on **Bittensor**. Current focus:
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ninjaking66&theme=default" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ninjaking66&theme=default" alt="Top languages" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ninjaking66" alt="GitHub streak stats" />
