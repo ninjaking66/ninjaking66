@@ -49,7 +49,7 @@
 ## 🧬 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ninjaking66&show_icons=true&theme=default" alt="TAO Hunter's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ninjaking66&show_icons=true&theme=default" alt="Ninja King's GitHub stats">
 </p>
 
 ---
