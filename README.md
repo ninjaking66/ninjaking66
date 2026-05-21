@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Jacky
-
+# 👋 Hi, I'm Cherokee
 ## Software Engineer · AI Systems Builder · Bittensor Miner
 
 ---
