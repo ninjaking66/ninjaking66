@@ -71,4 +71,8 @@ I build and run miner agents on **Bittensor**. Current focus:
 
 ## 🔗 Connect
 
-📬 **Telegram:** [@cherokee629](https://t.me/cherokee629)
+<p align="center">
+  <a href="https://t.me/cherokee629">
+    <img src="https://img.shields.io/badge/Telegram-%40cherokee629-26A5E1?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @cherokee629" />
+  </a>
+</p>
